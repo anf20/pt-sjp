@@ -1739,6 +1739,10 @@ html {
   height: 8rem;
 }
 
+.h-48 {
+  height: 12rem;
+}
+
 .h-96 {
   height: 24rem;
 }
